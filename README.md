@@ -47,10 +47,10 @@
 3. 运行getFeatures.py。
 
 ## 效果展示
-|  有效样本   | 无效样本  |
-| :----: | :----: |
-|![image](https://user-images.githubusercontent.com/44053847/209775199-09717c7d-2de6-4075-a44b-a1f5c4dcca13.png)|![image](https://user-images.githubusercontent.com/44053847/209775318-70058a83-6ccb-436a-8031-0a3e3584245d.png)|
-|![image](https://user-images.githubusercontent.com/44053847/209775295-8a5e038d-18be-460f-ae1b-de5fff5c426e.png)|![image](https://user-images.githubusercontent.com/44053847/209775335-006a7a22-5578-4da0-acc3-6e4c5276147e.png)|
+|  增强方法   | 有效样本  | 无效样本  |
+| :----: | :----: | :----: |
+|  噪声  |![image](https://user-images.githubusercontent.com/44053847/209775199-09717c7d-2de6-4075-a44b-a1f5c4dcca13.png)|![image](https://user-images.githubusercontent.com/44053847/209775295-8a5e038d-18be-460f-ae1b-de5fff5c426e.png)|
+|  CycleGAN  |![image](https://user-images.githubusercontent.com/44053847/209775318-70058a83-6ccb-436a-8031-0a3e3584245d.png)|![image](https://user-images.githubusercontent.com/44053847/209775335-006a7a22-5578-4da0-acc3-6e4c5276147e.png)|
 
 
 ## Reference
