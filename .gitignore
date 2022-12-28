@@ -5,8 +5,6 @@ VOCdevkit/
 datasets/
 Medical_Datasets/
 lfw/
-logs/
-model_data/
 metrics_out/
 
 # Byte-compiled / optimized / DLL files
