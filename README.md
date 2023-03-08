@@ -12,7 +12,6 @@
 
 （5）K-Means聚类
 
-![image](https://user-images.githubusercontent.com/44053847/209772861-c95a7ac4-4ece-4674-b8b8-5a4ae936376d.png)
 
 ## 训练步骤
 1. datasets文件夹下存放的图片分为两部分，train里面是训练图片，test里面是测试图片。  
